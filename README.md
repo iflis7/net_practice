@@ -354,7 +354,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 3</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level3_paint.png?raw=true" alt="level3">
+  <img src="./img/level3.png" alt="level3">
   <br>
   <br>
 
@@ -386,7 +386,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 4</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level4_paint.png?raw=true" alt="level4">
+  <img src="./img/level4.png" alt="level4">
   <br>
   <br>
 
@@ -422,7 +422,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 5</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level5_paint.png?raw=true" alt="level5">
+  <img src="./img/level5.png" alt="level5">
   <br>
   <br>
 
@@ -451,7 +451,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 6</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level6_paint.png?raw=true" alt="level6">
+  <img src="./img/level6.png" alt="level6">
   <br>
   <br>
 
@@ -509,7 +509,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 7</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level7_paint.png?raw=true" alt="level7">
+  <img src="./img/level7.png" alt="level7">
   <br>
   <br>
 
@@ -550,7 +550,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 8</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level8_paint.png?raw=true" alt="level8">
+  <img src="./img/level8.png" alt="level8">
   <br>
   <br>
 
@@ -593,7 +593,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 9</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level9_paint.png?raw=true" alt="level9">
+  <img src="./img/level9.png" alt="level9">
   <br>
   <br>
 
@@ -624,7 +624,7 @@ The answers can then be any address, as long as they meet the following conditio
 <details>
   <summary>Level 10</summary>
   <br>
-  <img src="https://github.com/LPaube/42_NetPractice/blob/main/img/level10_paint.png?raw=true" alt="level10">
+  <img src="./img/level10.png" alt="level10">
   <br>
   <br>
 
