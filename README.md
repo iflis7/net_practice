@@ -770,3 +770,6 @@ Subnet masks are typically used in networks that use the IPv4 protocol, as IPv6 
 ##### About Net Practice
 This project is a general practical exercise that let me discover networking
 </details>
+
+
+Thanks to <a href="https://github.com/Laubester/NetPractice/blob/main/LICENSE.md"> Laubester </a> for the README file
